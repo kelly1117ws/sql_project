@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-25T15:46:48.897Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="95Bw24K2YI1ugA2EnJGd" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-25T15:58:27.961Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="Ad5-WjyNRijJV0Zd_ZQL" version="17.4.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1016" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -77,14 +77,37 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DzdL4CI5yvtqsGjWjAdh-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DzdL4CI5yvtqsGjWjAdh-22" target="DzdL4CI5yvtqsGjWjAdh-28">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="DzdL4CI5yvtqsGjWjAdh-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DzdL4CI5yvtqsGjWjAdh-22" target="DzdL4CI5yvtqsGjWjAdh-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230.02857142857147" y="870" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="DzdL4CI5yvtqsGjWjAdh-22" value="肢體角度" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="152.5" y="740" width="155" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="DzdL4CI5yvtqsGjWjAdh-28" value="" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="870" width="140" height="60" as="geometry" />
+        <mxCell id="DzdL4CI5yvtqsGjWjAdh-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Courier New;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DzdL4CI5yvtqsGjWjAdh-30" target="DzdL4CI5yvtqsGjWjAdh-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DzdL4CI5yvtqsGjWjAdh-30" value="&lt;p style=&quot;line-height: 0.6&quot;&gt;繪製足壓圖&lt;/p&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;shadow=0;align=center;verticalAlign=top;spacing=9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="162.5" y="870" width="135" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DzdL4CI5yvtqsGjWjAdh-32" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;shadow=0;fontFamily=Courier New;fontSize=14;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="970" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DzdL4CI5yvtqsGjWjAdh-34" value="連接1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Courier New;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="205" y="990" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DzdL4CI5yvtqsGjWjAdh-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Courier New;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DzdL4CI5yvtqsGjWjAdh-35" target="DzdL4CI5yvtqsGjWjAdh-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DzdL4CI5yvtqsGjWjAdh-35" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;shadow=0;fontFamily=Courier New;fontSize=14;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="140" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DzdL4CI5yvtqsGjWjAdh-36" value="連接1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Courier New;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="455" y="160" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DzdL4CI5yvtqsGjWjAdh-37" value="計算分數" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Courier New;verticalAlign=middle;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
